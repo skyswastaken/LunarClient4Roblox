@@ -1,4 +1,4 @@
-dm skys#9826 on discord if you need any credits
+--dm skys#9826 on discord if you need any credits
 if not isfile("KavoConfig.JSON") then writefile("LunarConfig.JSON","{}")
 end
 local LunarWindow = loadstring(game:HttpGet("https://raw.githubusercontent.com/skyswastaken/SytroNight4ROBLOX/main/libraries/kavo.lua"))()
